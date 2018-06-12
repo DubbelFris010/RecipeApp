@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "365550275500",
+    "firebase_url": "https://recipeapp-a4be0.firebaseio.com",
+    "project_id": "recipeapp-a4be0",
+    "storage_bucket": "recipeapp-a4be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365550275500:android:719d348c4417ed11",
+        "android_client_info": {
+          "package_name": "com.angelo.moestadja.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365550275500-8qba8hp86793hdqpr0h0qq1rml3efike.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "365550275500-8qba8hp86793hdqpr0h0qq1rml3efike.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UZTMOmxtdQeswbLm_8fyMJKEzkV6ol4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
